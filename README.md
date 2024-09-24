@@ -8,13 +8,13 @@ In this project we will cover the basics of `Structure Query Language (SQL)`, `R
 
 ## Project Setup
 
-- [ ] clone this repository.
-- [ ] move into the project folder.
-- [ ] type `npm i` to download dependencies.
-- [ ] type `npm run server` to start the dev server.
+- [X] clone this repository.
+- [X] move into the project folder.
+- [X] type `npm i` to download dependencies.
+- [X] type `npm run server` to start the dev server.
 
 ## Coding Along
 
 Before using the following scripts it's recommended to remove the database from SQLite Studio.
 
-- [ ] type `npm run resetdb` to reset the database to its initial state.
+- [X] type `npm run resetdb` to reset the database to its initial state.
